@@ -1,5 +1,6 @@
 """
 Submitted: October 14, 2022
+Question: Given an integer x, return true if x is a palindrome, and false otherwise.
 """
 
 class Solution(object):
@@ -9,10 +10,7 @@ class Solution(object):
         :rtype: bool
         """
         
-        num = str(x)
-        
-        
-        
+        num = str(x) 
         array = [] 
         
         #populate array with chars
