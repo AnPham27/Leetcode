@@ -1,7 +1,5 @@
 """
 Submitted: October 14, 2022
-2307ms
-Beats 21.44% of users with Python
 """
 
 class Solution(object):
