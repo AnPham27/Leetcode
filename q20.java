@@ -55,3 +55,5 @@ class Solution {
         
         //if it's full of opening brackets with no closing brackets, it's not empty so ... not valid
         return stack.empty();
+    }
+}
