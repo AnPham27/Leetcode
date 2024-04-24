@@ -18,8 +18,6 @@ class Solution {
         //Stack stack1 = new Stack();
         
         Stack<Character> stack = new Stack<Character>();
-        
-        char index = ' ';
        
         
         for (int i = 0; i< s.length(); i++) {
